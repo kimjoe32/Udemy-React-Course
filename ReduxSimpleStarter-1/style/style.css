@@ -7,6 +7,11 @@
 	width: 75%;
 }
 
+.media-body {
+	/*line-height: 20%;*/
+	white-space: nowrap;
+}
+
 .video-item img {
 	max-width: 64px;
 }
